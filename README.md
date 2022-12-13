@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hi, I’m @FireIsGood
 - 👀 I’m interested in creating websites
-- 🌱 I’m currently learning front end web development via Astro and Svelte, maybe back end in the future!
+- 🌱 I’m interesting in making websites and I'm looking for an internships or jobs in web development
 - 📫 I'm on Discord: `FireIsGood#0733`
 
 ## Current Projects

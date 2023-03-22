@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hi, I’m @FireIsGood
 - 👀 I’m interested in programming
-- 🌱 I’m interesting in making websites and I'm looking for an work in web development
+- 🌱 I’m interesting in making websites and I'm looking for and work in web development
 - 📫 I'm on Discord: `FireIsGood#0733`
 
 ## Current Projects

@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **HTML, CSS, SCSS, JS, and Python**
 
-- 📫 Reach me at...
+- 📫 Reach me...
   - By email: **fireisadequate@gmail.com**
   - On Discord: **FireIsGood#0733**
 

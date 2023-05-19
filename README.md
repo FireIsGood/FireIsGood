@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 - 🔭 I’m currently working on...
-  - [Obsidian Everforest](https://github.com/FireIsGood/obsidian-everforest): A theme for the note-taking application Obsidian written in pure CSS
+  - [Obsidian Everfores Enchanted](https://github.com/FireIsGood/obsidian-everforest): A theme for the note-taking application Obsidian written in pure CSS
   - [Learning Svelte Site](https://github.com/FireIsGood/learning-svelte-site): A site that I'm writing to learn Svelte. Written in Astro with svelte components
   - [Arkdex](https://github.com/FireIsGood/arkdex): An MPA database for characters from the game Arknights
 

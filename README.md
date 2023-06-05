@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi ✨, I'm FireIsGood</h1>
-<h3 align="center">A CSS mage from the United States</h3>
+<h3 align="center">A CSS magician from the United States</h3>
 
 <br>
 

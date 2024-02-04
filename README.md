@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I’m currently working on...
   - [Obsidian Everforest Enchanted](https://github.com/FireIsGood/obsidian-everforest): A theme for the note-taking application Obsidian written in pure CSS
   - [FireIsWebsite](https://github.com/FireIsGood/fireiswebsite): My personal website
+  - [Limbus Image](https://github.com/FireIsGood/limbus-image): Tier list image generator for the game Limbus Company
   - (assorted small projects)
 
 - 🌱 I’m currently interested in **general web development** (but honestly anything that seems fun)

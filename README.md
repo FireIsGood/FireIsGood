@@ -28,7 +28,9 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about **HTML, CSS, TS, Rust, and Desmos**
 
 - 📫 Reach me...
-  - By email: **fireisadequate@gmail.com**
+  - By email:
+    - **contact@fireis.dev** (Official)
+    - **fireisadequate@gmail.com** (Personal)
   - On Discord: **@fireisgood**
 
 ### Languages and Tools:

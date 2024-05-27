@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
   - [Obsidian Everforest Enchanted](https://github.com/FireIsGood/obsidian-everforest): A theme for the note-taking application Obsidian written in pure CSS
   - [fireis.dev](https://github.com/FireIsGood/fireis.dev): My personal website
   - [Limbus Image](https://github.com/FireIsGood/limbus-image): Tier list image generator for the game Limbus Company
+  - [Worker.nvim](https://github.com/FireIsGood/worker.nvim): Workspace plugin for Neovim
   - [Fish Quiz](https://github.com/FireIsGood/fish-quiz): Fish Quiz
   - (assorted small projects)
 
@@ -50,7 +51,10 @@ You can click the Preview link to take a look at your changes.
 <p>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.lua.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/lua/lua-original.svg" alt="cplusplus" width="40" height="40"/></a>
 </p>
+
+
 
 ### Support:
 

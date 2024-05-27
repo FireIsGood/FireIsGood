@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   - [Obsidian Everforest Enchanted](https://github.com/FireIsGood/obsidian-everforest): A theme for the note-taking application Obsidian written in pure CSS
   - [fireis.dev](https://github.com/FireIsGood/fireis.dev): My personal website
   - [Limbus Image](https://github.com/FireIsGood/limbus-image): Tier list image generator for the game Limbus Company
-  - [Worker.nvim](https://github.com/FireIsGood/worker.nvim): Workspace plugin for Neovim
+  - [spaceman.nvim](https://github.com/FireIsGood/spaceman.nvim): Workspace manager plugin for Neovim
   - [Fish Quiz](https://github.com/FireIsGood/fish-quiz): Fish Quiz
   - (assorted small projects)
 

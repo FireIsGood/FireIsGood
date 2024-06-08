@@ -37,28 +37,27 @@ You can click the Preview link to take a look at your changes.
 ### Languages
 
 <p>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="48" height="48"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="48" height="48"/></a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="48" height="48"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="48" height="48"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="48" height="48"/></a>
-  <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=astro" alt="astro" width="48" height="48"/></a>
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=svelte" alt="svelte" width="48" height="48"/></a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=rust" alt="rust" width="48" height="48"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="48" height="48"/></a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=lua" alt="lua" width="48" height="48"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=light" alt="html5" width="48" height="48"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=light" alt="css3" width="48" height="48"/></a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="tailwind" width="48" height="48"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=light" alt="javascript" width="48" height="48"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts&theme=light" alt="typescript" width="48" height="48"/></a>
+  <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=astro&theme=light" alt="astro" width="48" height="48"/></a>
+  <a href="https://svelte.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=svelte&theme=light" alt="svelte" width="48" height="48"/></a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=rust&theme=light" alt="rust" width="48" height="48"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="cplusplus" width="48" height="48"/></a>
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=lua&theme=light" alt="lua" width="48" height="48"/></a>
 </p>
 
 ### Uses
 
 <p>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="48" height="48"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="48" height="48"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="git" width="48" height="48"/></a>
-  <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=neovim" alt="neovim" width="48" height="48"/></a>
-  <a href="https://obsidian.md" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" width="48" height="48"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux&theme=light" alt="linux" width="48" height="48"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=light" alt="git" width="48" height="48"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=light" alt="git" width="48" height="48"/></a>
+  <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=neovim&theme=light" alt="neovim" width="48" height="48"/></a>
+  <a href="https://obsidian.md" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=obsidian&theme=light" alt="obsidian" width="48" height="48"/></a>
 </p>
-<p>
 
 ### Support me?
 

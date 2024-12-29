@@ -44,6 +44,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts&theme=light" alt="typescript" width="48" height="48"/></a>
   <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=astro&theme=light" alt="astro" width="48" height="48"/></a>
   <a href="https://svelte.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=svelte&theme=light" alt="svelte" width="48" height="48"/></a>
+  <a href="https://angular.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular&theme=light" alt="angular" width="48" height="48"/></a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=rust&theme=light" alt="rust" width="48" height="48"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="cplusplus" width="48" height="48"/></a>
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=lua&theme=light" alt="lua" width="48" height="48"/></a>

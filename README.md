@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 - 🔭 I’m currently working on...
+  - [Wafrn](https://github.com/gabboman/wafrn): A federated social media inspired by tumblr
   - [Obsidian Everforest Enchanted](https://github.com/FireIsGood/obsidian-everforest): A theme for the note-taking application Obsidian written in pure CSS
   - [fireis.dev](https://github.com/FireIsGood/fireis.dev): My personal website
   - [Limbus Image](https://github.com/FireIsGood/limbus-image): Tier list image generator for the game Limbus Company

@@ -1,28 +1,38 @@
 <!---
-FireIsGood/FireIsGood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hi source code reader.
 --->
 
-<h1 align="center">Hi ✨, I'm FireIsGood</h1>
+<h1 align="center">Hi 💞, I'm FireIsGood</h1>
 <p align="center">A CSS magician from the United States</p>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fireisgood&column=5&title=MultiLanguage,Commits,Stars,Issues,PullRequest" alt="github profile trohies" height="110" />
+    <img src="https://github-profile-repo.vercel.app/?username=fireisgood&column=5&title=MultiLanguage,Commits,Stars,Issues,PullRequest" alt="github profile trohies" height="110" />
   </a>
 </p>
 
 <br>
 
 - 🔭 I’m currently working on...
-  - [Wafrn](https://github.com/gabboman/wafrn): A federated social media inspired by tumblr
-  - [Obsidian Everforest Enchanted](https://github.com/FireIsGood/obsidian-everforest): A theme for the note-taking application Obsidian written in pure CSS
-  - [fireis.dev](https://github.com/FireIsGood/fireis.dev): My personal website
-  - [Limbus Image](https://github.com/FireIsGood/limbus-image): Tier list image generator for the game Limbus Company
-  - [spaceman.nvim](https://github.com/FireIsGood/spaceman.nvim): Workspace manager plugin for Neovim
-  - [Fish Quiz](https://github.com/FireIsGood/fish-quiz): Fish Quiz
+  - 💥 [Minestfield](https://codeberg.org/FireIsGood/minestfield): A infinite minesweeper board controlled from the keyboard ([live](https://minestfield.fireis.dev))
+  - 🌘 [adletoofar](https://codeberg.org/FireIsGood/adletoofar): A tool to make fake -dle game result messages ([live](https://adletoofar.fireis.dev))
+  - 🐇 [rns-pf](https://github.com/FireIsGood/rns-pf-frontend): Rabbit and Steel online lobby viewer ([live](https://rns-pf.fireis.dev))
+  - 🍮 [Points](https://github.com/FireIsGood/points): Personal point tracking site, currently used for blood cult ([live](https://points.fireis.dev))
+  - 💬 [Dialogue Generator](https://codeberg.org/FireIsGood/dialogue-generator): DSL-based faked dialogue generator for simulated message screenshots ([live](https://dialogue.fireis.dev))
+  - 📸 [Tumblr Screenshot Tool](https://github.com/FireIsGood/tumblr-screenshot-tool): Personal stylized Tumblr post screenshot utilities ([live](https://fireisgood.github.io/tumblr-screenshot-tool/))
+    - [Tumblr Screenshot Extension](https://github.com/FireIsGood/tumblr-screenshot-tool-extension): Browser extension for previously noted screenshot tool
+  - 💠 [Prescript](https://github.com/FireIsGood/prescript): Project Moon reference, daily prescripts ([live](https://fireisgood.github.io/prescript/))
+
+- 🗃️ Fun stuff from the archive
+  - 🪲 [Wafrn](https://codeberg.org/wafrn/wafrn): A federated social media inspired by tumblr ([live](https://app.wafrn.net/))
+  - 🏠 [fireis.dev](https://github.com/FireIsGood/fireis.dev): My personal website ([live](https://fireisgood.github.io/fish-quiz/))
+  - 🐟 [Fish Quiz](https://github.com/FireIsGood/fish-quiz): Fish Quiz ([live](https://fireisgood.github.io/fish-quiz/))
+  - 🌰 [rns-seedy](https://fireisgood.github.io/rns-seedy/): Rabbit and Steel seed finder from mid-run info or results screenshots ([live](https://fireisgood.github.io/rns-seedy/))
+  - 👨‍🚀 [spaceman.nvim](https://github.com/FireIsGood/spaceman.nvim): Workspace manager plugin for Neovim
+  - 🪨 [Obsidian Everforest Enchanted](https://github.com/FireIsGood/obsidian-everforest): A theme for the note-taking application Obsidian written in pure CSS
+  - 🚌 [Limbus Image](https://github.com/FireIsGood/limbus-image): Tier list image generator for the game Limbus Company
   - (assorted small projects)
 
 - 🌱 I’m currently interested in **general web development** (but honestly anything that seems fun)

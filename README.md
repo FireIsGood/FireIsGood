@@ -29,7 +29,7 @@ Hi source code reader.
   - 🪲 [Wafrn](https://codeberg.org/wafrn/wafrn): A federated social media inspired by tumblr ([live](https://app.wafrn.net/))
   - 🏠 [fireis.dev](https://github.com/FireIsGood/fireis.dev): My personal website ([live](https://fireis.dev))
   - 🐟 [Fish Quiz](https://github.com/FireIsGood/fish-quiz): Fish Quiz ([live](https://fireisgood.github.io/fish-quiz/))
-  - 🌰 [rns-seedy](https://fireisgood.github.io/rns-seedy/): Rabbit and Steel seed finder from mid-run info or results screenshots ([live](https://fireisgood.github.io/rns-seedy/))
+  - 🌰 [rns-seedy](https://github.com/FireIsGood/rns-seedy): Rabbit and Steel seed finder from mid-run info or results screenshots ([live](https://fireisgood.github.io/rns-seedy/))
   - 👨‍🚀 [spaceman.nvim](https://github.com/FireIsGood/spaceman.nvim): Workspace manager plugin for Neovim
   - 🪨 [Obsidian Everforest Enchanted](https://github.com/FireIsGood/obsidian-everforest): A theme for the note-taking application Obsidian written in pure CSS
   - 🚌 [Limbus Image](https://github.com/FireIsGood/limbus-image): Tier list image generator for the game Limbus Company
